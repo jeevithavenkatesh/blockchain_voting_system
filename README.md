@@ -46,7 +46,9 @@ cd client
 npm install
 npm start
 ```
-##internship id
-CITS3015
+
 ## Internship Project
-Blockchain Voting System
+PROJECT NAME :Blockchain Voting System
+internship id :CITS3015
+NAME : JEEVITHA . V
+NO.WEEKS : 4 WEEKS
